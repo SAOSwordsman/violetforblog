@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98f32195-1b83-4a4c-bcc4-73fe40c816ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gOvVQziFoRcvjXa18ud4l1vUlQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../violet-front" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1 Java项目\9.springboot-vue\violet\violet-admin-front\static\tinymce" />
+      <recent name="D:\1 Java项目\9.springboot-vue\violet\violet-admin-front\static" />
+      <recent name="D:\1 Java项目\9.springboot-vue\violet\violet-admin-front\components" />
+      <recent name="D:\1 Java项目\9.springboot-vue\violet\violet-admin-front\layouts" />
+      <recent name="D:\1 Java项目\9.springboot-vue\violet\violet-admin-front\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1 Java项目\9.springboot-vue\violet\violet-admin-front\pages\edit" />
+      <recent name="D:\1 Java项目\9.springboot-vue\violet\violet-admin-front\static\tinymce" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98f32195-1b83-4a4c-bcc4-73fe40c816ec" name="Default Changelist" comment="" />
+      <created>1597998476797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597998476797</updated>
+      <workItem from="1597998478453" duration="7424000" />
+      <workItem from="1598149758484" duration="16319000" />
+      <workItem from="1598243998059" duration="13299000" />
+      <workItem from="1598320261500" duration="12517000" />
+      <workItem from="1598495886540" duration="9975000" />
+      <workItem from="1598507422881" duration="17123000" />
+      <workItem from="1598533314293" duration="8000" />
+      <workItem from="1598579059802" duration="21770000" />
+      <workItem from="1598621596826" duration="108000" />
+      <workItem from="1598675917700" duration="14920000" />
+      <workItem from="1598755926275" duration="181000" />
+      <workItem from="1598759542506" duration="2340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="627" y="319" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598177005579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="319" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598177005579" />
+    <state x="680" y="340" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598678182266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2600" y="340" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598002355489" />
+    <state x="680" y="340" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598678182266" />
+    <state x="973" y="253" key="FileChooserDialogImpl" timestamp="1598507813601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="973" y="253" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598507813601" />
+    <state x="709" y="223" key="run.anything.popup" timestamp="1598686011455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2629" y="223" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598009492211" />
+    <state x="709" y="223" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598686011455" />
+    <state x="590" y="310" width="672" height="678" key="search.everywhere.popup" timestamp="1598514616799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2510" y="310" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597998480124" />
+    <state x="590" y="310" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598514616799" />
+  </component>
+</project>

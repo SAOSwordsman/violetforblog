@@ -1,0 +1,122 @@
+2020-08-28 09:46:09,321 INFO DEFAULT_GROUP@@service-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8222:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-28 09:46:09,329 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-gateway, ips: 192.168.0.103:8222_true,
+
+2020-08-28 09:46:30,674 INFO DEFAULT_GROUP@@service-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-28 09:46:30,674 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 09:47:29,102 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-28 09:47:29,102 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 192.168.0.103:8002_true,
+
+2020-08-28 09:48:21,243 INFO DEFAULT_GROUP@@service-msm {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-28 09:48:21,243 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-msm, ips: 192.168.0.103:8003_true,
+
+2020-08-28 09:48:38,717 INFO DEFAULT_GROUP@@service-ucenter {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-28 09:48:38,717 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.0.103:8004_true,
+
+2020-08-28 09:50:33,793 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8005:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-28 09:50:33,793 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 192.168.0.103:8005_true,
+
+2020-08-28 09:54:32,998 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.0.103:8004_true,
+
+2020-08-28 10:04:29,539 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 10:24:46,106 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 10:24:57,707 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.0.103:8004_true,
+
+2020-08-28 10:58:57,318 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.0.103:8004_true,
+
+2020-08-28 16:15:05,492 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 16:27:43,541 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 16:28:46,735 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 16:35:21,269 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 17:02:36,378 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 18:49:27,766 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 19:52:00,007 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 19:52:29,140 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:19:16,287 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:22:20,779 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:29:29,879 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:33:06,224 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:34:35,539 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:35:46,321 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:36:41,289 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:37:32,315 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:38:23,581 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:39:27,379 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:40:44,598 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:41:55,330 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:43:27,137 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:46:50,142 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 20:50:49,023 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8001@DEFAULT@DEFAULT_GROUP@@service-admin, region: unknown, msg: client timeout after 15000, last beat: 1598619033800
+
+2020-08-28 20:50:58,623 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_false,
+
+2020-08-28 20:51:02,287 INFO service: DEFAULT_GROUP@@service-admin {POS} {IP-ENABLED} valid: 192.168.0.103:8001@DEFAULT, region: unknown, msg: client beat ok
+
+2020-08-28 21:15:42,927 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 21:16:45,511 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 21:29:58,067 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8002@DEFAULT@DEFAULT_GROUP@@service-cms, region: unknown, msg: client timeout after 15000, last beat: 1598621379495
+
+2020-08-28 21:30:00,259 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8003@DEFAULT@DEFAULT_GROUP@@service-msm, region: unknown, msg: client timeout after 15000, last beat: 1598621381495
+
+2020-08-28 21:30:02,413 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8004@DEFAULT@DEFAULT_GROUP@@service-ucenter, region: unknown, msg: client timeout after 15000, last beat: 1598621386598
+
+2020-08-28 21:30:07,769 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8005@DEFAULT@DEFAULT_GROUP@@service-oss, region: unknown, msg: client timeout after 15000, last beat: 1598621388983
+
+2020-08-28 21:30:13,107 INFO DEFAULT_GROUP@@service-cms {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-28 21:30:13,107 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-cms, ips: 
+
+2020-08-28 21:30:15,264 INFO DEFAULT_GROUP@@service-msm {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-28 21:30:15,264 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-msm, ips: 
+
+2020-08-28 21:30:17,417 INFO DEFAULT_GROUP@@service-ucenter {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8004:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-28 21:30:17,417 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 
+
+2020-08-28 21:30:22,773 INFO DEFAULT_GROUP@@service-oss {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8005:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-08-28 21:30:22,773 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-oss, ips: 
+
+2020-08-28 21:31:33,747 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 21:31:43,327 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-gateway, ips: 192.168.0.103:8222_true,
+
+2020-08-28 21:31:49,959 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-28 21:32:28,270 INFO DEFAULT_GROUP@@service-ucenter {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-28 21:32:28,270 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.0.103:8004_true,
+

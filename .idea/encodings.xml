@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/violet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/common/common_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/common/service_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/infrastructure" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/infrastructure/api_gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/service/violet-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/service/violet-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/service/violet-msm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/service/violet-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/service/violet-statistics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/violet/service/violet-ucenter" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

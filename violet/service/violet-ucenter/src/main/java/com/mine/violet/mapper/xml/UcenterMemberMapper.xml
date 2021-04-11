@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mine.violet.mapper.UcenterMemberMapper">
+
+    <update id="updateId" parameterType="com.mine.violet.entity.UcenterMember">
+        update ucenter_member set is_deleted = #{deleteId} where id =#{id}
+    </update>
+
+    <!--查询某一天的注册人数-->
+    <select id="countRegisterDay" resultType="int">
+        select count(*) from ucenter_member uc
+        where date(uc.gmt_create)=#{day}
+    </select>
+
+</mapper>

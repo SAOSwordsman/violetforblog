@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api_gateway" />
+        <module name="violet-ucenter" />
+        <module name="common_util" />
+        <module name="violet-oss" />
+        <module name="violet-statistics" />
+        <module name="violet-cms" />
+        <module name="violet-msm" />
+        <module name="violet-admin" />
+        <module name="service_base" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api_gateway" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="common_util" target="1.8" />
+      <module name="infrastructure" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service_base" target="1.8" />
+      <module name="violet" target="1.8" />
+      <module name="violet-admin" target="1.8" />
+      <module name="violet-cms" target="1.8" />
+      <module name="violet-msm" target="1.8" />
+      <module name="violet-oss" target="1.8" />
+      <module name="violet-statistics" target="1.8" />
+      <module name="violet-ucenter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api_gateway" options="-parameters" />
+      <module name="common_util" options="-parameters" />
+      <module name="service_base" options="-parameters" />
+      <module name="violet-admin" options="-parameters" />
+      <module name="violet-cms" options="-parameters" />
+      <module name="violet-msm" options="-parameters" />
+      <module name="violet-oss" options="-parameters" />
+      <module name="violet-statistics" options="-parameters" />
+      <module name="violet-ucenter" options="-parameters" />
+    </option>
+  </component>
+</project>

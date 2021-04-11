@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/violet/infrastructure/api_gateway/api_gateway.iml" filepath="$PROJECT_DIR$/violet/infrastructure/api_gateway/api_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/common/common.iml" filepath="$PROJECT_DIR$/violet/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/common/common_util/common_util.iml" filepath="$PROJECT_DIR$/violet/common/common_util/common_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/infrastructure/infrastructure.iml" filepath="$PROJECT_DIR$/violet/infrastructure/infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/service/service.iml" filepath="$PROJECT_DIR$/violet/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/common/service_base/service_base.iml" filepath="$PROJECT_DIR$/violet/common/service_base/service_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/violet.iml" filepath="$PROJECT_DIR$/violet/violet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/service/violet-admin/violet-admin.iml" filepath="$PROJECT_DIR$/violet/service/violet-admin/violet-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/service/violet-cms/violet-cms.iml" filepath="$PROJECT_DIR$/violet/service/violet-cms/violet-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/service/violet-msm/violet-msm.iml" filepath="$PROJECT_DIR$/violet/service/violet-msm/violet-msm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/service/violet-oss/violet-oss.iml" filepath="$PROJECT_DIR$/violet/service/violet-oss/violet-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/service/violet-statistics/violet-statistics.iml" filepath="$PROJECT_DIR$/violet/service/violet-statistics/violet-statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/violet/service/violet-ucenter/violet-ucenter.iml" filepath="$PROJECT_DIR$/violet/service/violet-ucenter/violet-ucenter.iml" />
+    </modules>
+  </component>
+</project>

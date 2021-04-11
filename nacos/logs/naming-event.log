@@ -1,0 +1,20 @@
+2020-08-30 10:46:37,398 INFO DEFAULT_GROUP@@service-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8222:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-30 10:46:37,407 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-gateway, ips: 192.168.0.103:8222_true,
+
+2020-08-30 10:55:04,620 INFO DEFAULT_GROUP@@service-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-30 10:55:04,620 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
+2020-08-30 10:56:30,961 INFO DEFAULT_GROUP@@service-ucenter {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-30 10:56:30,961 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-ucenter, ips: 192.168.0.103:8004_true,
+
+2020-08-30 10:56:40,550 INFO DEFAULT_GROUP@@service-statistics {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8006:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-08-30 10:56:40,550 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-statistics, ips: 192.168.0.103:8006_true,
+
+2020-08-30 11:19:42,710 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-statistics, ips: 192.168.0.103:8006_true,
+
+2020-08-30 12:18:07,786 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-admin, ips: 192.168.0.103:8001_true,
+
